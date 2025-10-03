@@ -14,8 +14,8 @@ body{
     justify-content:space-between;
 }
 
-#big{
-    width:200px;
+#big img{
+    height:300px;
 }
 
 h1{
@@ -30,5 +30,5 @@ a{
 }
 
 #example{
-    
+
 }
